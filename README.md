@@ -12,6 +12,7 @@ main reason to choice websocket are over htpp ,where the client and ser v er nee
 and low latency
 
 whent to use websocket:
+
     > websocket can make a web page be dynamic and intractive 
        for ex:news,mails need to update dynamically.
      
